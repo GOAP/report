@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.15)  15 APR 2015 17:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.15)  19 APR 2015 13:24
 entering extended mode
 **Report.tex
-(J:\GOAP\Report.tex
+(J:\report\Report.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -30,7 +30,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (J:\GOAP\Report.aux)
+) (J:\report\Report.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
@@ -57,7 +57,7 @@ Missing character: There is no © in font cmr12!
 
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (J:\GOAP\Report.toc)
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (J:\report\Report.toc)
 \tf@toc=\write3
 
 [1
@@ -109,22 +109,22 @@ Chapter 8.
 Appendix A.
 [10
 
-] (J:\GOAP\Report.aux) ) 
+] (J:\report\Report.aux) ) 
 Here is how much of TeX's memory you used:
  273 strings out of 493921
- 2968 string characters out of 3149694
- 50031 words of memory out of 3000000
+ 2986 string characters out of 3149694
+ 52031 words of memory out of 3000000
  3635 multiletter control sequences out of 15000+200000
  8195 words of font info for 29 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 23i,6n,19p,335b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
-<B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/c
-mbx10.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><B:/
-ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><B:/ProgramFiles/La
-Tex/fonts/type1/public/amsfonts/cm/cmr12.pfb><B:/ProgramFiles/LaTex/fonts/type1
-/public/amsfonts/cm/cmr17.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb>
-Output written on Report.pdf (11 pages, 91904 bytes).
+ 23i,6n,19p,1130b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
+<B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><B
+:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><B:/ProgramFiles/
+LaTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><B:/ProgramFiles/LaTex/fonts/typ
+e1/public/amsfonts/cm/cmr17.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb>
+Output written on Report.pdf (11 pages, 94930 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
