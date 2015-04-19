@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.15)  19 APR 2015 13:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.15)  19 APR 2015 16:20
 entering extended mode
 **Report.tex
 (J:\report\Report.tex
@@ -30,37 +30,87 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (J:\report\Report.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
+)
+(B:\ProgramFiles\LaTex\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(B:\ProgramFiles\LaTex\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(B:\ProgramFiles\LaTex\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(B:\ProgramFiles\LaTex\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(B:\ProgramFiles\LaTex\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(B:\ProgramFiles\LaTex\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(B:\ProgramFiles\LaTex\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(B:\ProgramFiles\LaTex\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(J:\report\Report.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+ (B:\ProgramFiles\LaTex\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks16
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 7.
+(Font)              <12> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 7.
+(Font)              <8> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 7.
+(Font)              <6> on input line 9.
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no Ž in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
+ [1
 
-[1
-
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (J:\report\Report.toc)
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (J:\report\Report.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+)
 \tf@toc=\write3
-
-[1
+ [1
 
 ]
 Chapter 1.
@@ -73,16 +123,16 @@ Chapter 2.
 ]
 Chapter 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
 (B:\ProgramFiles\LaTex\tex\latex\base\omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
  [4
 
 ]
@@ -107,26 +157,34 @@ Chapter 8.
 
 ]
 Appendix A.
-[10
+<./appendixImages/AxosoftScreenShot01.jpg, id=40, 1443.89438pt x 812.28468pt>
+File: ./appendixImages/AxosoftScreenShot01.jpg Graphic file (type jpg)
 
-] (J:\report\Report.aux) ) 
+<use ./appendixImages/AxosoftScreenShot01.jpg>
+Package pdftex.def Info: ./appendixImages/AxosoftScreenShot01.jpg used on input
+ line 43.
+(pdftex.def)             Requested size: 345.0pt x 194.08469pt.
+ [10
+
+ <J:/report/appendixImages/AxosoftScreenShot01.jpg>] [11] [12] [13] [14] (J:\re
+port\Report.aux) ) 
 Here is how much of TeX's memory you used:
- 273 strings out of 493921
- 2986 string characters out of 3149694
- 52031 words of memory out of 3000000
- 3635 multiletter control sequences out of 15000+200000
- 8195 words of font info for 29 fonts, out of 3000000 for 9000
+ 1184 strings out of 493921
+ 15316 string characters out of 3149694
+ 67342 words of memory out of 3000000
+ 4508 multiletter control sequences out of 15000+200000
+ 9453 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 23i,6n,19p,1130b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
-<B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm
-/cmbx10.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><B
-:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><B:/ProgramFiles/
-LaTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><B:/ProgramFiles/LaTex/fonts/typ
-e1/public/amsfonts/cm/cmr17.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb>
-Output written on Report.pdf (11 pages, 94930 bytes).
+ 27i,6n,19p,1130b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
+<B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmbx10.
+pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><B:/Progra
+mFiles/LaTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><B:/ProgramFiles/LaTex/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><B:/ProgramFiles/LaTex/fonts/type1/publi
+c/amsfonts/cm/cmr17.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Report.pdf (15 pages, 391537 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
