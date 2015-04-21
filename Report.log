@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.15)  20 APR 2015 17:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.15)  21 APR 2015 22:10
 entering extended mode
 **Report.tex
 (J:\report\Report.tex
@@ -141,49 +141,71 @@ Chapter 4.
 
 ] [6]
 Chapter 5.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
 [7
 
 ]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+ [8]
 Chapter 6.
-[8
-
-]
-Chapter 7.
 [9
 
 ]
-Chapter 8.
+Chapter 7.
 [10
 
 ]
+Chapter 8.
+[11
+
+]
 Appendix A.
-<./appendixImages/AxosoftScreenShot01.png, id=43, 900.36375pt x 370.38374pt>
+<./appendixImages/AxosoftScreenShot01.png, id=46, 900.36375pt x 370.38374pt>
 File: ./appendixImages/AxosoftScreenShot01.png Graphic file (type png)
 
 <use ./appendixImages/AxosoftScreenShot01.png>
 Package pdftex.def Info: ./appendixImages/AxosoftScreenShot01.png used on input
- line 42.
+ line 51.
 (pdftex.def)             Requested size: 345.0pt x 141.9228pt.
 
-<./appendixImages/AxosoftScreenShot02.jpg, id=44, 1443.89438pt x 812.28468pt>
+<./appendixImages/AxosoftScreenShot02.jpg, id=47, 1443.89438pt x 812.28468pt>
 File: ./appendixImages/AxosoftScreenShot02.jpg Graphic file (type jpg)
 
 <use ./appendixImages/AxosoftScreenShot02.jpg>
 Package pdftex.def Info: ./appendixImages/AxosoftScreenShot02.jpg used on input
- line 45.
+ line 54.
 (pdftex.def)             Requested size: 345.0pt x 194.08469pt.
- [11
+ [12
 
- <J:/report/appendixImages/AxosoftScreenShot01.png>] [12 <J:/report/appendixIma
-ges/AxosoftScreenShot02.jpg>] [13] [14] [15] [16] (J:\report\Report.aux) ) 
+ <J:/report/appendixImages/AxosoftScreenShot01.png>] [13 <J:/report/appendixIma
+ges/AxosoftScreenShot02.jpg>] [14] [15] [16] [17] (J:\report\Report.aux) ) 
 Here is how much of TeX's memory you used:
  1189 strings out of 493921
  15518 string characters out of 3149694
- 67342 words of memory out of 3000000
+ 68342 words of memory out of 3000000
  4512 multiletter control sequences out of 15000+200000
  9453 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,6n,19p,1130b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,19p,1280b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
 <B:/P
 rogramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><B:/ProgramFiles/La
 Tex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><B:/ProgramFiles/LaTex/fonts/type
@@ -191,9 +213,9 @@ Tex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><B:/ProgramFiles/LaTex/fonts/type
 ts/cm/cmr12.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmr17.pfb
 ><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><B:/ProgramFi
 les/LaTex/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Report.pdf (17 pages, 469157 bytes).
+Output written on Report.pdf (18 pages, 474211 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 90 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
