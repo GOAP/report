@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.15)  21 APR 2015 22:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.15)  23 APR 2015 19:03
 entering extended mode
 **Report.tex
 (J:\report\Report.tex
@@ -105,9 +105,9 @@ Missing character: There is no © in font cmr12!
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (J:\report\Report.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
+(Font)              <7> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 10.
+(Font)              <5> on input line 6.
 )
 \tf@toc=\write3
  [1
@@ -123,16 +123,16 @@ Chapter 2.
 ]
 Chapter 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 17.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
 (B:\ProgramFiles\LaTex\tex\latex\base\omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 17.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
  [4
 
 ]
@@ -165,57 +165,69 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [8]
+ [8] [9]
 Chapter 6.
-[9
-
-]
-Chapter 7.
 [10
 
 ]
-Chapter 8.
+Chapter 7.
 [11
 
 ]
+Chapter 8.
+[12
+
+]
+Chapter 9.
+[13
+
+]
 Appendix A.
-<./appendixImages/AxosoftScreenShot01.png, id=46, 900.36375pt x 370.38374pt>
+<./appendixImages/AxosoftScreenShot01.png, id=53, 900.36375pt x 370.38374pt>
 File: ./appendixImages/AxosoftScreenShot01.png Graphic file (type png)
 
 <use ./appendixImages/AxosoftScreenShot01.png>
 Package pdftex.def Info: ./appendixImages/AxosoftScreenShot01.png used on input
- line 51.
+ line 74.
 (pdftex.def)             Requested size: 345.0pt x 141.9228pt.
 
-<./appendixImages/AxosoftScreenShot02.jpg, id=47, 1443.89438pt x 812.28468pt>
+<./appendixImages/AxosoftScreenShot02.jpg, id=54, 1443.89438pt x 812.28468pt>
 File: ./appendixImages/AxosoftScreenShot02.jpg Graphic file (type jpg)
 
 <use ./appendixImages/AxosoftScreenShot02.jpg>
 Package pdftex.def Info: ./appendixImages/AxosoftScreenShot02.jpg used on input
- line 54.
+ line 77.
 (pdftex.def)             Requested size: 345.0pt x 194.08469pt.
- [12
+ [14
 
- <J:/report/appendixImages/AxosoftScreenShot01.png>] [13 <J:/report/appendixIma
-ges/AxosoftScreenShot02.jpg>] [14] [15] [16] [17] (J:\report\Report.aux) ) 
+ <J:/report/appendixImages/AxosoftScreenShot01.png>] [15 <J:/report/appendixIma
+ges/AxosoftScreenShot02.jpg>] [16] [17]
+<./appendixImages/GitHubScreenShot01.jpg, id=67, 419.31656pt x 127.22531pt>
+File: ./appendixImages/GitHubScreenShot01.jpg Graphic file (type jpg)
+
+<use ./appendixImages/GitHubScreenShot01.jpg>
+Package pdftex.def Info: ./appendixImages/GitHubScreenShot01.jpg used on input 
+line 86.
+(pdftex.def)             Requested size: 345.0pt x 104.67679pt.
+ [18 <J:/report/appendixImages/GitHubScreenShot01.jpg>] [19] (J:\report\Report.
+aux) ) 
 Here is how much of TeX's memory you used:
- 1189 strings out of 493921
- 15518 string characters out of 3149694
+ 1194 strings out of 493921
+ 15715 string characters out of 3149694
  68342 words of memory out of 3000000
- 4512 multiletter control sequences out of 15000+200000
+ 4516 multiletter control sequences out of 15000+200000
  9453 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,6n,19p,1280b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
-<B:/P
-rogramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><B:/ProgramFiles/La
-Tex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><B:/ProgramFiles/LaTex/fonts/type
-1/public/amsfonts/cm/cmr10.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmr17.pfb
-><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><B:/ProgramFi
-les/LaTex/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Report.pdf (18 pages, 474211 bytes).
+<B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><B:/Prog
+ramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><B:/ProgramFiles/LaTex
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><B:/ProgramFiles/LaTex/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/c
+m/cmr17.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><B
+:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Report.pdf (20 pages, 499337 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
