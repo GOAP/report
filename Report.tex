@@ -1,5 +1,6 @@
 \documentclass[a4paper]{report}
 \usepackage{graphicx}
+\usepackage{pdfpages}
 \graphicspath{{J:/report/appendixImages/}}
 \begin{document}
 
@@ -11,11 +12,23 @@
 \chapter{Introduction}
 Project 10 of the 206CDE Real World Projects, namely Goal Orientated Action Planning (GOAP) for Game Artificial Intelligence (AI) was successfully finished by this group. In this project, we will discuss the GOAP artificial intelligence type and its uses within video games. This project was complete in eight months by a team consisting of five members. Due to the majority of the team belonging to the Games Technology course, the overall look and feel of the project is similar to a two-dimensional pixel art style video-game, although no player interaction is possible. 
  
-GOAP AI refers to a simplified STRIPS-like planning architecture, designed for real-time control of various character behaviours within video games. A good example of a GOAP AI is the F.E.A.R. video-game AI, which has won many awards and is acclaimed as one of the best gaming AIs. Various programs were used in the making of this project. The coding behind everything was done using the C++ programming language. Photoshop was used to develop various textures and sprites to be used in the game-like presentation. For graphical purposes, the Simple and Fast Multimedia Library (SFML) was used, which is based on the Open Graphics Library. Axosoft and GitHub were used for team organisation and progress tracking.
+GOAP AI refers to a simplified STRIPS-like planning architecture, designed for real-time control of various character behaviours within video games. A good example of a GOAP AI is the F.E.A.R. video-game AI, which has won many awards and is acclaimed as one of the best gaming AIs. Various programs were used in the making of this project. The coding behind everything was done using the C++ programming language. Photoshop was used to develop various textures and sprites to be used in the game-like presentation. For graphical purposes, the Simple and Fast Multimedia Library (SFML) was used, which is based on the Open Graphics Library(OpenGL). Axosoft and GitHub were used for team organisation and progress tracking.
 
 \chapter{Project Brief}
+Our brief for this project was to write an artificial intelligence for games using Goal Orientated Action Planning techniques. We had to produce an AI agent capable of planning and executing a simple sequence of actions. This should include programming, software engineering and design as its key areas of study in order to complete the project. 
+
+To successfully carry out the project certain job roles must be filled, these are to include:
+\begin{itemize}
+	\item Project Manager
+	\item Lead Programmer
+	\item Lead Designer
+	\item Programmers
+\end{itemize} 
+
+At the end of this project we are expecting to be able to deliver a simple game world containing an AI agent capable of planning simple sequences of actions and executing these in real time. 
+
 \chapter{Aims and Objectives}
-The aim of this project is to create a goal orientated action planning artificial intelligence(AI) agent. This agent should be able to asses its current state against its goal state. Our AI agent should then begin to generate an action plan, that it will execute in order to achieve the desired state. \newline
+The main aim of this project is to fulfil the brief of creating a Goal Orientated Action Planning Artificial Intelligence agent. This agent should be able to asses its current state against its goal state. Our AI agent should then begin to generate an action plan, that it will execute in order to achieve the desired state. \newline
 
 \begin{itemize}
 	\item Design and Create a Survival Game
@@ -73,6 +86,8 @@ Various different actions can be completed, such as gathering resources such as 
 
 \chapter{Conclusion}
 The project was successful in implementing a GOAP AI capable of planning and organising actions in order to complete a goal. The AI can be tested on various maps with different conditions in order to get different results based on the resources available to the AI. 
+
+
 \chapter{Bibliography}
 \appendix
 \chapter{Appendix}
@@ -94,5 +109,7 @@ The project was successful in implementing a GOAP AI capable of planning and org
 GitHub Branches
 \pagebreak
 \section{}
-
+\pagebreak
+\section{Final Presentation Slides}
+\includepdf[pages={-}]{./appendixImages/finalPresentation}
 \end{document}
