@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.15)  23 APR 2015 19:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.15)  23 APR 2015 23:26
 entering extended mode
 **Report.tex
 (J:\report\Report.tex
@@ -63,39 +63,93 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(J:\report\Report.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
- (B:\ProgramFiles\LaTex\tex\context\base\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count89
-\scratchdimen=\dimen105
-\scratchbox=\box26
-\nofMPsegments=\count90
-\nofMParguments=\count91
-\everyMPshowfont=\toks15
-\MPscratchCnt=\count92
-\MPscratchDim=\dimen106
-\MPnumerator=\count93
-\makeMPintoPDFobject=\count94
-\everyMPtoPDFconversion=\toks16
+(B:\ProgramFiles\LaTex\tex\latex\pdfpages\pdfpages.sty
+Package: pdfpages 2015/04/15 v0.4w Insert pages of external PDF documents (AM)
+
+(B:\ProgramFiles\LaTex\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
+(B:\ProgramFiles\LaTex\tex\latex\tools\calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen105
+\calc@Bdimen=\dimen106
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count91
+\calc@Cskip=\skip45
+)
+(B:\ProgramFiles\LaTex\tex\latex\eso-pic\eso-pic.sty
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+
+(B:\ProgramFiles\LaTex\tex\generic\oberdiek\atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(B:\ProgramFiles\LaTex\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(B:\ProgramFiles\LaTex\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(B:\ProgramFiles\LaTex\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(B:\ProgramFiles\LaTex\tex\latex\pdfpages\pppdftex.def
+File: pppdftex.def 2015/04/15 v0.4w Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks15
+\c@AM@survey=\count92
+\AM@templatesizebox=\box27
+) (J:\report\Report.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+(B:\ProgramFiles\LaTex\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen107
+\scratchbox=\box28
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen108
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks17
+)
+\AtBeginShipoutBox=\box29
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 9.
+(Font)              <12> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 9.
+(Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 9.
+(Font)              <6> on input line 10.
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no Ž in font cmr12!
@@ -118,22 +172,22 @@ Chapter 1.
 
 ]
 Chapter 2.
-[3
-
-]
-Chapter 3.
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 22.
 (B:\ProgramFiles\LaTex\tex\latex\base\omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
- [4
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 22.
+ [3
+
+]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+[4
 
 ]
 Chapter 4.
@@ -188,7 +242,7 @@ File: ./appendixImages/AxosoftScreenShot01.png Graphic file (type png)
 
 <use ./appendixImages/AxosoftScreenShot01.png>
 Package pdftex.def Info: ./appendixImages/AxosoftScreenShot01.png used on input
- line 74.
+ line 96.
 (pdftex.def)             Requested size: 345.0pt x 141.9228pt.
 
 <./appendixImages/AxosoftScreenShot02.jpg, id=54, 1443.89438pt x 812.28468pt>
@@ -196,7 +250,7 @@ File: ./appendixImages/AxosoftScreenShot02.jpg Graphic file (type jpg)
 
 <use ./appendixImages/AxosoftScreenShot02.jpg>
 Package pdftex.def Info: ./appendixImages/AxosoftScreenShot02.jpg used on input
- line 77.
+ line 99.
 (pdftex.def)             Requested size: 345.0pt x 194.08469pt.
  [14
 
@@ -207,27 +261,480 @@ File: ./appendixImages/GitHubScreenShot01.jpg Graphic file (type jpg)
 
 <use ./appendixImages/GitHubScreenShot01.jpg>
 Package pdftex.def Info: ./appendixImages/GitHubScreenShot01.jpg used on input 
-line 86.
+line 108.
 (pdftex.def)             Requested size: 345.0pt x 104.67679pt.
- [18 <J:/report/appendixImages/GitHubScreenShot01.jpg>] [19] (J:\report\Report.
-aux) ) 
+ [18 <J:/report/appendixImages/GitHubScreenShot01.jpg>] [19]
+<./appendixImages/finalPresentation.pdf, id=75, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf used on input l
+ine 114.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf used on input l
+ine 114.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+ [20]
+<./appendixImages/finalPresentation.pdf, id=81, page=1, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 1>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page1 used on 
+input line 114.
+(pdftex.def)             Requested size: 794.96806pt x 614.29349pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 1>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page1 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 1>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page1 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 1>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page1 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 1>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page1 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [21 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=133, page=2, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 2>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page2 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 2>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page2 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 2>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page2 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [22 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=137, page=3, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 3>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page3 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 3>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page3 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 3>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page3 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [23 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=141, page=4, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 4>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page4 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 4>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page4 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 4>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page4 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [24 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=146, page=5, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 5>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page5 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 5>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page5 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 5>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page5 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [25 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=150, page=6, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 6>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page6 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 6>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page6 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 6>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page6 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [26 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=154, page=7, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 7>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page7 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 7>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page7 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 7>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page7 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [27 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=158, page=8, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 8>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page8 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 8>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page8 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 8>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page8 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [28 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=162, page=9, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 9>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page9 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 9>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page9 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 9>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page9 used on 
+input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [29 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=166, page=10, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+<use ./appendixImages/finalPresentation.pdf, page 10>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page10 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 10>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page10 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 10>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page10 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [30 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=171, page=11, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+<use ./appendixImages/finalPresentation.pdf, page 11>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page11 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 11>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page11 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 11>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page11 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [31 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=175, page=12, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+<use ./appendixImages/finalPresentation.pdf, page 12>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page12 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 12>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page12 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 12>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page12 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [32 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=179, page=13, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+<use ./appendixImages/finalPresentation.pdf, page 13>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page13 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 13>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page13 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 13>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page13 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [33 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=183, page=14, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+<use ./appendixImages/finalPresentation.pdf, page 14>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page14 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 14>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page14 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 14>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page14 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [34 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=187, page=15, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+<use ./appendixImages/finalPresentation.pdf, page 15>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page15 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 15>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page15 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 15>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page15 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [35 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=191, page=16, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+<use ./appendixImages/finalPresentation.pdf, page 16>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page16 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 16>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page16 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 16>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page16 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [36 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=196, page=17, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+<use ./appendixImages/finalPresentation.pdf, page 17>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page17 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 17>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page17 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 17>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page17 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [37 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=200, page=18, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+<use ./appendixImages/finalPresentation.pdf, page 18>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page18 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 18>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page18 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 18>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page18 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [38 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=204, page=19, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+<use ./appendixImages/finalPresentation.pdf, page 19>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page19 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 19>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page19 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 19>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page19 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [39 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=208, page=20, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+<use ./appendixImages/finalPresentation.pdf, page 20>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page20 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 20>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page20 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 20>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page20 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [40 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=212, page=21, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+<use ./appendixImages/finalPresentation.pdf, page 21>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page21 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 21>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page21 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 21>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page21 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [41 <J:/report/appendixImages/finalPresentation.pdf>]
+<./appendixImages/finalPresentation.pdf, id=216, page=22, 794.97pt x 614.295pt>
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+<use ./appendixImages/finalPresentation.pdf, page 22>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page22 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 22>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page22 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+File: ./appendixImages/finalPresentation.pdf Graphic file (type pdf)
+
+<use ./appendixImages/finalPresentation.pdf, page 22>
+Package pdftex.def Info: ./appendixImages/finalPresentation.pdf, page22 used on
+ input line 114.
+(pdftex.def)             Requested size: 598.22752pt x 462.26671pt.
+ [42 <J:/report/appendixImages/finalPresentation.pdf>] (J:\report\Report.aux) )
+ 
 Here is how much of TeX's memory you used:
- 1194 strings out of 493921
- 15715 string characters out of 3149694
- 68342 words of memory out of 3000000
- 4516 multiletter control sequences out of 15000+200000
+ 2521 strings out of 493921
+ 36810 string characters out of 3149694
+ 94332 words of memory out of 3000000
+ 5810 multiletter control sequences out of 15000+200000
  9453 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,6n,19p,1280b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
-<B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><B:/Prog
-ramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><B:/ProgramFiles/LaTex
-/fonts/type1/public/amsfonts/cm/cmr10.pfb><B:/ProgramFiles/LaTex/fonts/type1/pu
-blic/amsfonts/cm/cmr12.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/c
-m/cmr17.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><B
-:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Report.pdf (20 pages, 499337 bytes).
+ 39i,18n,43p,1280b,419s stack positions out of 5000i,500n,10000p,200000b,50000s
+<B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><B:/ProgramFil
+es/LaTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><B:/ProgramFiles/LaTex/fonts
+/type1/public/amsfonts/cm/cmr10.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmr1
+7.pfb><B:/ProgramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><B:/Prog
+ramFiles/LaTex/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Report.pdf (43 pages, 14717358 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
+ 246 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
