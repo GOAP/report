@@ -5,7 +5,40 @@
 \graphicspath{{J:/report/appendixImages/}}
 \usepackage[utf8]{inputenc}
 \usepackage{natbib}
+\usepackage{listings}
+\usepackage{color}
 
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+
+\lstset{ %
+  backgroundcolor=\color{white},   % choose the background color; you must add \usepackage{color} or \usepackage{xcolor}
+  basicstyle=\footnotesize,        % the size of the fonts that are used for the code
+  breakatwhitespace=false,         % sets if automatic breaks should only happen at whitespace
+  breaklines=true,                 % sets automatic line breaking
+  captionpos=b,                    % sets the caption-position to bottom
+  commentstyle=\color{mygreen},    % comment style
+  deletekeywords={...},            % if you want to delete keywords from the given language
+  escapeinside={\%*}{*)},          % if you want to add LaTeX within your code
+  extendedchars=true,              % lets you use non-ASCII characters; for 8-bits encodings only, does not work with UTF-8
+  frame=single,                    % adds a frame around the code
+  keepspaces=true,                 % keeps spaces in text, useful for keeping indentation of code (possibly needs columns=flexible)
+  keywordstyle=\color{blue},       % keyword style
+  language=Octave,                 % the language of the code
+  otherkeywords={*,...},            % if you want to add more keywords to the set
+  numbers=left,                    % where to put the line-numbers; possible values are (none, left, right)
+  numbersep=5pt,                   % how far the line-numbers are from the code
+  numberstyle=\tiny\color{mygray}, % the style that is used for the line-numbers
+  rulecolor=\color{black},         % if not set, the frame-color may be changed on line-breaks within not-black text (e.g. comments (green here))
+  showspaces=false,                % show spaces everywhere adding particular underscores; it overrides 'showstringspaces'
+  showstringspaces=false,          % underline spaces within strings only
+  showtabs=false,                  % show tabs within strings adding particular underscores
+  stepnumber=2,                    % the step between two line-numbers. If it's 1, each line will be numbered
+  stringstyle=\color{mymauve},     % string literal style
+  tabsize=2,                       % sets default tabsize to 2 spaces
+  title=\lstname                   % show the filename of files included with \lstinputlisting; also try caption instead of title
+}
 \begin{document}
 \bibliographystyle{unsrtnat}
 
@@ -115,6 +148,8 @@ Once a valid plan is found to satisfy the pre-conditions of an operator, the alg
 
 This plan is then passed to the game, where it is interpreted and executed one frame at a time: if the AI agent needs to move, the hot loop of the game will move it closer towards its target one iota at a time.
 
+The code for the planner can be found in Appendix A, Code Samples.
+
 \chapter{Testing}
 \chapter{Discussion}
 Overall the workflow of this project went smoothly. A large portion of the work has been done in the early stages, resulting in a base for future endeavours. Due to a team member using the Linux Operating System, various steps were taken in order to make future merging of work much easier. As such, after the first attempt, all other programming merges were done without any problems. 
@@ -142,7 +177,12 @@ The project was successful in implementing a GOAP AI capable of planning and org
 	\includegraphics[width=1.0\linewidth]{./appendixImages/AxosoftScreenShot02}
 	\textit{Axosoft} User Stories
 \pagebreak
-\section{}
+\section{Code samples}
+
+\lstinputlisting[language=C++]{codesamples/problem.hpp}
+\lstinputlisting[language=C++]{codesamples/action.hpp}
+\lstinputlisting[language=C++]{codesamples/fact.hpp}
+
 \pagebreak
 \section{}
 \pagebreak
